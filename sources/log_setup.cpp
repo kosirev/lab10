@@ -1,7 +1,3 @@
-//
-// Created by lamp on 4/21/21.
-//
-
 #include <log_setup.hpp>
 
 boost::log::trivial::severity_level recognize_log_level(const std::string& level){

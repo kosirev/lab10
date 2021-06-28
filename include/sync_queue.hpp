@@ -1,7 +1,3 @@
-//
-// Created by lamp on 05.02.2021.
-//
-
 #ifndef KV_STORAGE_SYNC_QUEUE_HPP
 #define KV_STORAGE_SYNC_QUEUE_HPP
 

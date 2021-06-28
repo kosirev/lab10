@@ -1,7 +1,3 @@
-//
-// Created by lamp on 4/21/21.
-//
-
 #ifndef KV_STORAGE_APPLICATION_HPP
 #define KV_STORAGE_APPLICATION_HPP
 

@@ -1,7 +1,3 @@
-//
-// Created by lamp on 4/27/21.
-//
-
 #ifndef KV_STORAGE_COMMON_HPP
 #define KV_STORAGE_COMMON_HPP
 

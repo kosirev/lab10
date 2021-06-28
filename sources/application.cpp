@@ -1,6 +1,3 @@
-//
-// Created by lamp on 4/21/21.
-//
 #include <application.hpp>
 
 application::application(): _impl(new impl()){

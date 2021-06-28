@@ -1,7 +1,3 @@
-//
-// Created by lamp on 05.02.2021.
-//
-
 #ifndef TEMPLATE_DATABASE_HPP
 #define TEMPLATE_DATABASE_HPP
 
